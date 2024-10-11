@@ -24,9 +24,5 @@ I'm a passionate software developer with experience in various technologies, foc
 | MariaDB                                              |                                                             |                                                              |                                                          |
 
 
-## 📈 My GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedbichiou&layout=compact&theme=radical&langs_count=6)
-
-
 
 
