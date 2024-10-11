@@ -23,12 +23,6 @@ I'm a passionate software developer with experience in various technologies, foc
 | Amazon AWS                                            |                                                             |                                                              |                                                          |
 | MariaDB                                              |                                                             |                                                              |                                                          |
 
-| SEO Techniques                                         | SEO Tools                                             |
-|--------------------------------------------------------|------------------------------------------------------|
-| On-page SEO                                          | Next.js SEO Optimization                             |
-| Meta Tags                                           | Google Analytics                                     |
-| Structured Data                                     | Search Console                                       |
-                  
 
 ## 📈 My GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedbichiou&layout=compact&theme=radical&langs_count=6)
