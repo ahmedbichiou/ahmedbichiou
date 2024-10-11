@@ -56,26 +56,9 @@ I'm a passionate software developer with experience in various technologies, foc
 | Structured Data        | Search Console                |
 
 
-
-
 ## 📈 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedbichiou&show_icons=true&theme=radical&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedbichiou&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedbichiou&layout=compact&theme=radical&langs_count=6)
 
-![Total Contributions](https://github-readme-stats.vercel.app/api?username=ahmedbichiou&show_icons=true&hide=contribs,prs&theme=radical)
 
-## 🚀 My Featured Projects
-- **CRM Solution for Travel Itineraries:** Developed a CRM to manage travel itineraries effectively and evaluated database migration for performance improvement.
-- **Client-side Management and Booking Application:** Built a management and booking app, exploring SEO optimization methods for better visibility.
-- **MEDIBOT:** Created an innovative robot for medication management, including a mobile app for caregiver interaction and a user-guiding interface on the robot.
-
-## 📫 How to reach me
-- Portfolio: [ahmedbichiou.pro](https://www.ahmedbichiou.pro/)
-- [LinkedIn](https://www.linkedin.com/in/ahmed-bichiou-4b2285222/)
-- [GitHub](https://github.com/ahmedbichiou)
-- Email: ahmed.bichiou@enicar.ucar.tn
 
 
