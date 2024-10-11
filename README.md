@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name]! 👋
+# Hi, I'm Ahmed Bichiou! 👋
 
 I'm a passionate software developer with experience in various technologies, focusing on building innovative solutions and enhancing user experiences.
 
@@ -23,13 +23,13 @@ I'm a passionate software developer with experience in various technologies, foc
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40" height="40"/> 
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedbichiou&show_icons=true&theme=radical&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedbichiou&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedbichiou&layout=compact&theme=radical&langs_count=6)
 
-![Total Contributions](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide=contribs,prs&theme=radical)
+![Total Contributions](https://github-readme-stats.vercel.app/api?username=ahmedbichiou&show_icons=true&hide=contribs,prs&theme=radical)
 
 ## 🚀 Projects
 - **CRM Solution for Travel Itineraries:** Developed a CRM to manage travel itineraries effectively and evaluated database migration for performance improvement.
@@ -38,5 +38,5 @@ I'm a passionate software developer with experience in various technologies, foc
 
 ## 📫 How to reach me
 - [LinkedIn](YourLinkedInProfile)
-- [GitHub](https://github.com/YourGitHubUsername)
+- [GitHub](https://github.com/ahmedbichiou)
 - Email: [YourEmail@example.com]
