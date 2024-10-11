@@ -24,7 +24,7 @@ I'm a passionate software developer with experience in various technologies, foc
 |              |                 |                  | NoSQL          |
 |              |                 |                  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/> MongoDB Atlas |
 |              |                 |                  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/> Firebase |
-|              |                 |                  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40" height="40"/> Amazon AWS  |
+|              |                 |                  | Amazon AWS  |
 |              |                 |                  | MariaDB        |
 
 ### Programming
@@ -38,8 +38,8 @@ I'm a passionate software developer with experience in various technologies, foc
 
 | Infrastructure   | Virtualization   | Infrastructure  | Virtualization   |
 |------------------|------------------|------------------|------------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> GitHub    | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/> Docker    | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40"/> GitLab    | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vmware/vmware-original.svg" width="40" height="40"/> VMware    |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40"/> Nginx      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/> Kubernetes | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/> AWS Lambda | Hyper-V        |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> GitHub    | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/> Docker    | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40"/> GitLab    |  VMware    |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40"/> Nginx      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/> Kubernetes | AWS Lambda | Hyper-V        |
 
 ### SEO
 
