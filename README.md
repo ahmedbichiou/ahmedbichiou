@@ -1,5 +1,5 @@
 # 💫 About Me:
-i m software developer i have projects ranging from web frameworks such as reactjs nextjs vuejs  and angular and i use backends such as .net springboot nodejs 
+i m software developer i have projects ranging from web frameworks such as reactjs , nextjs , vuejs ,angular and i use backends such as .net springboot nodejs 
 
 
 # 💻 Tech Stack:
