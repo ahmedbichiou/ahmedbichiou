@@ -1,5 +1,5 @@
 # 💫 About Me:
-i m software developer i have projects ranging from web frameworks such as reactjs , nextjs , vuejs ,angular and i use backends such as .net springboot nodejs 
+I'm a software developer with experience in full-stack development across various web frameworks, including React.js, Next.js, Vue.js, and Angular. I work with robust backend technologies like .NET, Spring Boot, and Node.js, allowing me to build dynamic, responsive, and scalable applications tailored to diverse requirements.
 
 
 # 💻 Tech Stack:
